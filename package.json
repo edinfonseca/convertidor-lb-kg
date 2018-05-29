@@ -1,5 +1,5 @@
 {
-  "name": "convertidor-lb-kg",
+  "name": "@edinfonseca/convertidor-lb-kg",
   "version": "0.1.0",
   "description": "Convertidor de Lb - Kgs",
   "main": "dist/src/conv-lb-kg.js",
