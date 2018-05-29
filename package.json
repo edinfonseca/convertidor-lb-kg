@@ -2,7 +2,7 @@
   "name": "convertidor-lb-kg",
   "version": "0.1.0",
   "description": "Convertidor de Lb - Kgs",
-  "main": "conv-lb-kg.js",
+  "main": "dist/src/conv-lb-kg.js",
   "scripts": {
     "test": "",
     "build": "babel src/conv-lb-kg.js -d dist"
